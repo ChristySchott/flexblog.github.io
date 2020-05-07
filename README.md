@@ -1,6 +1,3 @@
-:warning: Estou configurando as imagens, logo logo atualizo :warning:
-
-
 
 <h1 align="center">
   :space_invader: Flexblog :space_invader:
