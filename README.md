@@ -19,7 +19,9 @@ Esse projeto foi desenvolvido no curso Flexbox da Origamid, logo a principal fer
 
 Layout: 
 
-![Layout do projeto](https://github.com/ChristySchott/react-search/blob/master/react-search.PNG)
+![Layout do projeto](https://github.com/ChristySchott/flexblog.github.io/blob/master/layout/layout1.png)
+![Layout do projeto](https://github.com/ChristySchott/flexblog.github.io/blob/master/layout/layout2.png)
+![Layout do projeto](https://github.com/ChristySchott/flexblog.github.io/blob/master/layout/layout3.png)
 
 
 ### Aprendizados:
